@@ -30,32 +30,32 @@
                         ]
     },
      {
-        "name": "Rock",
-        "backgroundColor": "#FF0000",
-        "backgroundImageURL": "https://igorolrev.github.io/Vendors/Freja/background_freja.png",
-        "logoImageURL": "https://igorolrev.github.io/Vendors/Freja/logo_rock.png",
-        "carPlayLogoURL": "https://igorolrev.github.io/Vendors/Freja/car_rock.png",
-        "tvLogoURL": "https://igorolrev.github.io/Vendors/Freja/tv_frejarock.png",
-        "androidLogoURL": "https://igorolrev.github.io/Vendors/Freja/rock_android.png",
-        "placeholderURL": "https://igorolrev.github.io/Vendors/Freja/PlaceHolderRock.png",
-        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/datdkvib?mp=/stream",
+        "name": "Christmas",
+        "backgroundColor": "#142e81",
+        "backgroundImageURL": "https://i.imgur.com/5L4Mlda.png",
+        "logoImageURL": "https://i.imgur.com/auGGt89.png",
+        "carPlayLogoURL": "https://i.imgur.com/qfqrfwG.png",
+        "tvLogoURL": "https://i.imgur.com/9rPAgrX.png",
+        "androidLogoURL": "https://i.imgur.com/UZgIOiN.png",
+        "placeholderURL": "https://i.imgur.com/rSwdqil.png",
+        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/fbarcklk?mp=/stream",
         "stationId": "dk.frejarock",
         "site":     {
-                            "name": "www.radiofrejarock.dk", 
-                            "url": "http://radiofrejarock.dk/"
+                            "name": "www.radiofreja.dk", 
+                            "url": "http://radiofreja.dk/"
                         },
         "socials": [
                             {
                                 "iconName": "icon_facebook", 
-                                "url": "http://facebook.com/radiofrejarock"
+                                "url": "http://facebook.com/radiofreja"
                             },
                             {
                                     "iconName": "icon_twitter", 
-                                    "url": "http://instagram.com/radiofrejarock"
+                                    "url": "http://instagram.com/radiofreja"
                             },
                             {
                                     "iconName": "icon_youtube", 
-                                    "url": "https://www.youtube.com/channel/UCujVjOIRkNhZEbMsZwPr5eQ/"
+                                    "url": ""
                             }
                         ]
     },
