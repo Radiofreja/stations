@@ -11,7 +11,7 @@
         "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
         "stationId": "dk.radiofreja",
         "site":     {
-                            "name": "www.radiofreja.dkl", 
+                            "name": "www.radiofreja.dk", 
                             "url": "https://www.radiofreja.dk"
                         },
         "socials": [
@@ -32,7 +32,7 @@
      {
         "name": "Rock",
         "backgroundColor": "#FF0000",
-        "backgroundImageURL": "https://igorolrev.github.io/Vendors/Freja/background_rock.png",
+        "backgroundImageURL": "https://igorolrev.github.io/Vendors/Freja/background_freja.png",
         "logoImageURL": "https://igorolrev.github.io/Vendors/Freja/logo_rock.png",
         "carPlayLogoURL": "https://igorolrev.github.io/Vendors/Freja/car_rock.png",
         "tvLogoURL": "https://igorolrev.github.io/Vendors/Freja/tv_frejarock.png",
