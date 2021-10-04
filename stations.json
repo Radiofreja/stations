@@ -29,4 +29,34 @@
                             }
                         ]
     },
+{
+        "name": "Freja Mix",
+        "backgroundColor": "#000000",
+        "backgroundImageURL": "https://i.imgur.com/eLQXBTu.png",
+        "logoImageURL": "https://i.imgur.com/XNEkKE3.png",
+        "carPlayLogoURL": "https://i.imgur.com/ht9CMCQ.png",
+        "tvLogoURL": "https://i.imgur.com/RBVSBCO.png",
+        "androidLogoURL": "https://i.imgur.com/GMAEvP9.png",
+        "placeholderURL": "https://i.imgur.com/ziGtlHA.png",
+        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/datdkvib?mp=/stream",
+        "stationId": "dk.frejarock",
+        "site":     {
+                            "name": "www.radiofreja.dk", 
+                            "url": "http://radiofreja.dk/"
+                        },
+        "socials": [
+                            {
+                                "iconName": "icon_facebook", 
+                                "url": "http://facebook.com/radiofreja"
+                            },
+                            {
+                                    "iconName": "icon_twitter", 
+                                    "url": "http://instagram.com/radiofreja"
+                            },
+                            {
+                                    "iconName": "icon_youtube", 
+                                    "url": "https://www.youtube.com/channel/UCujVjOIRkNhZEbMsZwPr5eQ/"
+                            }
+                        ]
+    },
 ]
