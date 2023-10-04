@@ -29,34 +29,7 @@
                             }
                         ]
 
-    [
-  {
-        "name": "Freja",
-        "backgroundColor": "#000000",
-        "backgroundImageURL": "https://i.imgur.com/AD9l3l7.png",
-        "logoImageURL": "https://i.imgur.com/qiWwUHc.png",
-        "carPlayLogoURL": "https://i.imgur.com/oFt9kbB.png",
-        "tvLogoURL": "https://i.imgur.com/JrVZAO0.png",
-        "androidLogoURL": "https://i.imgur.com/NdUk3MZ.png",
-        "placeholderURL": "https://i.imgur.com/IiwQ6Eq.png",
-        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
-        "stationId": "dk.radiofreja",
-        "site":     {
-                            "name": "www.radiofreja.dk", 
-                            "url": "https://www.radiofreja.dk"
-                        },
-        "socials": [
-                            {
-                                "iconName": "icon_facebook", 
-                                "url": "http://www.facebook.com/radiofreja"
-                            },
-                            {
-                                    "iconName": "icon_twitter", 
-                                    "url": "http://www.twitter.com/radiofreja"
-                            },
-                            {
-                                    "iconName": "icon_youtube", 
-                                    "url": "https://www.youtube.com/channel/UCJwSE2MsngJzYPMkJBu52Eg"
+
                             }
                         ]
     },
