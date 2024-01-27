@@ -29,36 +29,5 @@
                             }
                         ]
 
-    },
-    {
-        "name": "Freja Christmas",
-        "backgroundColor": "#000000",
-        "backgroundImageURL": "https://i.imgur.com/Epg2xUw.png",
-        "logoImageURL": "https://i.imgur.com/t131keB.png",
-        "carPlayLogoURL": "https://i.imgur.com/qfqrfwG.png",
-        "tvLogoURL": "https://i.imgur.com/9rPAgrX.png",
-        "androidLogoURL": "https://i.imgur.com/UZgIOiN.png",
-        "placeholderURL": "https://i.imgur.com/rSwdqil.png",
-        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/fbarcklk?mp=/stream",
-        "stationId": "dk.radiofrejachristmas",
-        "site":     {
-                            "name": "www.radiofreja.dk", 
-                            "url": "https://www.radiofreja.dk"
-                        },
-        "socials": [
-                            {
-                                "iconName": "icon_facebook", 
-                                "url": "http://www.facebook.com/radiofreja"
-                            },
-                            {
-                                    "iconName": "icon_twitter", 
-                                    "url": "http://www.twitter.com/radiofreja"
-                            },
-                            {
-                                    "iconName": "icon_youtube", 
-                                    "url": "https://www.youtube.com/channel/UCJwSE2MsngJzYPMkJBu52Eg"
-                            }
-                        ]
-
-    },
+},
 ]
