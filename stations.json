@@ -1,14 +1,14 @@
 [
   {
         "name": "Freja",
-        "backgroundColor": "#5163A0",
-        "backgroundImageURL": "https://igorolrev.github.io/Vendors/Freja/background_freja.png",
-        "logoImageURL": "https://i.imgur.com/c53n8UP.png",
-        "carPlayLogoURL": "https://igorolrev.github.io/Vendors/Freja/car_freja.png",
-        "tvLogoURL": "https://igorolrev.github.io/Vendors/Freja/tv_radiofreja.png",
-        "androidLogoURL": "https://igorolrev.github.io/Vendors/Freja/freja_android.png",
-        "placeholderURL": "https://igorolrev.github.io/Vendors/Freja/PlaceHolderFreja.png",
-        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/datdkvib?mp=/stream",
+        "backgroundColor": "#000000",
+        "backgroundImageURL": "https://i.imgur.com/ZH58KfN.png",
+        "logoImageURL": "https://i.imgur.com/8nEk8aW.png",
+        "carPlayLogoURL": "https://i.imgur.com/TAroQfD.png",
+        "tvLogoURL": "https://i.imgur.com/JqT5txz.png",
+        "androidLogoURL": "https://i.imgur.com/AdDMLWH.png",
+        "placeholderURL": "https://i.imgur.com/O0biL2U.png",
+        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
         "stationId": "dk.radiofreja",
         "site":     {
                             "name": "www.radiofreja.dk", 
@@ -28,35 +28,6 @@
                                     "url": "https://www.youtube.com/channel/UCJwSE2MsngJzYPMkJBu52Eg"
                             }
                         ]
-    },
-     {
-        "name": "Christmas",
-        "backgroundColor": "#142e81",
-        "backgroundImageURL": "https://i.imgur.com/OI0ctt2.png",
-        "logoImageURL": "https://i.imgur.com/t131keB.png",
-        "carPlayLogoURL": "https://i.imgur.com/qfqrfwG.png",
-        "tvLogoURL": "https://i.imgur.com/9rPAgrX.png",
-        "androidLogoURL": "https://i.imgur.com/UZgIOiN.png",
-        "placeholderURL": "https://i.imgur.com/rSwdqil.png",
-        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/dcvbvqtv?mp=/stream",
-        "stationId": "dk.frejarock",
-        "site":     {
-                            "name": "www.radiofreja.dk", 
-                            "url": "http://radiofreja.dk/"
-                        },
-        "socials": [
-                            {
-                                "iconName": "icon_facebook", 
-                                "url": "http://facebook.com/radiofreja"
-                            },
-                            {
-                                    "iconName": "icon_twitter", 
-                                    "url": "http://instagram.com/radiofreja"
-                            },
-                            {
-                                    "iconName": "icon_youtube", 
-                                    "url": "1"
-                            }
-                        ]
-    },
+
+},
 ]
