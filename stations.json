@@ -1,14 +1,14 @@
 [
   {
         "name": "Freja",
-        "backgroundColor": "#000000",
+        "backgroundColor": "#5163A0",
         "backgroundImageURL": "https://i.imgur.com/ZH58KfN.png",
         "logoImageURL": "https://i.imgur.com/8nEk8aW.png",
         "carPlayLogoURL": "https://i.imgur.com/TAroQfD.png",
         "tvLogoURL": "https://i.imgur.com/JqT5txz.png",
         "androidLogoURL": "https://i.imgur.com/AdDMLWH.png",
         "placeholderURL": "https://i.imgur.com/O0biL2U.png",
-        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
+        "stationStreamURL": "ttps://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
         "stationId": "dk.radiofreja",
         "site":     {
                             "name": "www.radiofreja.dk", 
@@ -28,6 +28,35 @@
                                     "url": "https://www.youtube.com/channel/UCJwSE2MsngJzYPMkJBu52Eg"
                             }
                         ]
-
-},
+    },
+     {
+        "name": "Christmas",
+        "backgroundColor": "#142e81",
+        "backgroundImageURL": "https://i.imgur.com/Epg2xUw.png",
+        "logoImageURL": "https://i.imgur.com/t131keB.png",
+        "carPlayLogoURL": "https://i.imgur.com/qfqrfwG.png",
+        "tvLogoURL": "https://i.imgur.com/9rPAgrX.png",
+        "androidLogoURL": "https://i.imgur.com/UZgIOiN.png",
+        "placeholderURL": "https://i.imgur.com/rSwdqil.png",
+        "stationStreamURL": "https://solid67.streamupsolutions.com/proxy/fbarcklk?mp=/stream",
+        "stationId": "dk.frejarock",
+        "site":     {
+                            "name": "www.radiofreja.dk", 
+                            "url": "http://radiofreja.dk/"
+                        },
+        "socials": [
+                            {
+                                "iconName": "icon_facebook", 
+                                "url": "http://facebook.com/radiofreja"
+                            },
+                            {
+                                    "iconName": "icon_twitter", 
+                                    "url": "http://instagram.com/radiofreja"
+                            },
+                            {
+                                    "iconName": "icon_youtube", 
+                                    "url": "1"
+                            }
+                        ]
+    },
 ]
